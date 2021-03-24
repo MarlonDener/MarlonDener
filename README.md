@@ -1,4 +1,4 @@
-### 💻 Bem-vindo ao meu perfil! 
+### Bem-vindo ao meu perfil! 
 
 Meu nome é Marlon Dener, sou estudante de Análise e Desenvolvimento de Sistemas. 
 
