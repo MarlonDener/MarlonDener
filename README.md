@@ -10,7 +10,6 @@ Tenho como foco principal o desenvolvimento Web, atualmente estudo e utilizo as 
 -   CSS
 -   Bootstrap
 -   Javascript
--   Vue JS
 -   PHP
 
  Projeto reforçando a importância do isolamento social no enfrentamento da pandemia: https://marlondener.github.io/covid_site/
