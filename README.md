@@ -4,13 +4,12 @@ Meu nome é Marlon Dener, sou estudante de Análise e Desenvolvimento de Sistema
 
 ----------
 
-Tenho como foco principal o desenvolvimento Web, atualmente estudo e utilizo as seguintes tecnologias:
+Tenho como foco principal o desenvolvimento Front-end, atualmente estudo e utilizo as seguintes tecnologias:
 
 -   HTML
 -   CSS
 -   Javascript
 -   Vue.js
--   API
 
 ----------
 
