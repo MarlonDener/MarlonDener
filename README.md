@@ -9,9 +9,12 @@ Tenho como foco principal o desenvolvimento Front-end, atualmente estudo e utili
 -   HTML
 -   CSS
 -   Javascript
+-   React.js
 -   Vue.js
 
 ----------
+ 
+ Portfólio: https://marlondener.vercel.app/
 
  Projeto reforçando a importância do isolamento social no enfrentamento da pandemia: https://marlondener.github.io/covid_site/
  
