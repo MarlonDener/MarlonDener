@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu perfil!
 
-Meu nome é Marlon Dener, sou estudante de Análise e Desenvolvimento de Sistemas. 
+Meu nome é Marlon Dener, sou recém formado em Análise e Desenvolvimento de Sistemas, e apaixonado por tecnologia.
 
 ----------
 
@@ -11,7 +11,7 @@ Tenho como foco principal o desenvolvimento Front-end, atualmente estudo e utili
 -   Javascript
 -   React.js
 -   Vue.js
-
+-   Typescript
 ----------
  
  Portfólio: https://marlondener.vercel.app/
