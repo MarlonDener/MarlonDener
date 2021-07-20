@@ -2,7 +2,7 @@
 
 ### :pencil2: Sobre Mim
 
-:books: Meu nome é Marlon Dener, sou recém formado em Análise e Desenvolvimento de Sistemas (07/2021), e tenho como objetivo me tornar um Desenvolvedor Web. <br>
+Meu nome é Marlon Dener, sou recém formado em Análise e Desenvolvimento de Sistemas (07/2021), e tenho como objetivo me tornar um Desenvolvedor Web. <br>
 
 ### 📬 Contatos
 <hr>
