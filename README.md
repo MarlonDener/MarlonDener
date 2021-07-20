@@ -13,12 +13,12 @@ Meu nome é Marlon Dener, sou recém formado em Análise e Desenvolvimento de Si
 <a href="mailto:marlondener01@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
- 
+ <hr>
 
 ### :man: Portfólio
 https://marlondener.vercel.app/
 <br>
-
+<hr>
 ### <b>:computer: &nbsp;Tecnologias de estudo</b></summary><br/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
