@@ -1,17 +1,10 @@
 # Olá, 👋 tudo bem?
 
-<table align="right">
- <tr><td><a href="README_en.md">English</a></td></tr>
- <tr><td><a href="README.md">Português</a></td></tr>
-</table>
-
 ### :pencil2: Sobre Mim
 
 :books: Meu nome é Marlon Dener, sou recém formado em Análise e Desenvolvimento de Sistemas (07/2021), e tenho como objetivo me tornar um Desenvolvedor Web. <br>
 <br>
 💬 Estou a disposição para contatos<br>
-
-### 📬 Contatos
 
 <hr>
 <a href="https://www.linkedin.com/in/marlondener/" target="_blank">
@@ -22,7 +15,8 @@
    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
 
-:man: Portfólio: https://marlondener.vercel.app/
+<br>
+### :man: <h3>Portfólio: https://marlondener.vercel.app/ </h3>
 <br>
 
 ### <b>:computer: &nbsp;Tecnologias de estudo</b></summary><br/>
