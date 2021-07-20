@@ -17,7 +17,7 @@
 
 <br>
 
-### 📬 Portfólio
+### �:man: Portfólio
 <h3><a href="marlondener.vercel.app">Acessar</a></h3>
 <br>
 
