@@ -8,10 +8,19 @@
 ### :pencil2: Sobre Mim
 
 :books: Meu nome é Marlon Dener, sou recém formado em Análise e Desenvolvimento de Sistemas (07/2021), e tenho como objetivo me tornar um Desenvolvedor Web. <br>
+<br>
 💬 Estou a disposição para contatos<br>
 
 ### 📬 Contatos
 
+<hr>
+<a href="https://www.linkedin.com/in/marlondener/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:marlondener01@gmail.com" target="_blank">
+   <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
 
 :man: Portfólio: https://marlondener.vercel.app/
 <br>
