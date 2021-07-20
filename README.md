@@ -3,7 +3,6 @@
 ### :pencil2: Sobre Mim
 
 :books: Meu nome é Marlon Dener, sou recém formado em Análise e Desenvolvimento de Sistemas (07/2021), e tenho como objetivo me tornar um Desenvolvedor Web. <br>
-<br>
 
 ### 📬 Contatos
 <hr>
@@ -17,7 +16,7 @@
 
 <br>
 
-### �:man: Portfólio
+### :man: Portfólio
 <h3><a href="marlondener.vercel.app">Acessar</a></h3>
 <br>
 
@@ -40,5 +39,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marlondener&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlondener&layout=compact&langs_count=16&theme=default"/>
 <div>
+  
+  
+  ![Snake animation](https://github.com/marlondener/marlondener/blob/output/github-contribution-grid-snake.svg)
 
 
