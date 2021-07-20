@@ -13,11 +13,10 @@
 <a href="mailto:marlondener01@gmail.com" target="_blank">
    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
  </a>
-
-<br>
+ 
 
 ### :man: Portfólio
-<h3><a href="marlondener.vercel.app">Acessar</a></h3>
+https://marlondener.vercel.app/
 <br>
 
 ### <b>:computer: &nbsp;Tecnologias de estudo</b></summary><br/>
@@ -40,7 +39,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlondener&layout=compact&langs_count=16&theme=default"/>
 <div>
   
-  
-  ![Snake animation](https://github.com/marlondener/marlondener/blob/output/github-contribution-grid-snake.svg)
+ 
 
 
